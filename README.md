@@ -43,11 +43,11 @@
 
 ## 🗺️ 探索图谱 (Roadmap)
 
-- [x] **Chapter 01: 预备知识** - 线性代数与微积分的编程实践
-- [x] **Chapter 02: 线性神经网络** - Softmax 回归的本质
-- [x] **Chapter 03: 多层感知机** - 破解过拟合与欠拟合
-- [ ] **Chapter 04: 深度学习计算** - 层与块的自定义逻辑
-- [ ] **Chapter 05: 卷积神经网络** - LeNet 到现代 CNN
+- [x] **Chapter 01: Introduction** - 线性代数与微积分的编程实践
+- [x] **Chapter 02: Linear neural network** - Softmax 回归的本质
+- [x] **Chapter 03: SVM** - 破解过拟合与欠拟合
+- [ ] **Chapter 04: Deep learning computation** - 层与块的自定义逻辑
+- [ ] **Chapter 05: CNN** - LeNet 到现代 CNN
 - [ ] **Chapter 06: Transformer** - 注意力机制的巅峰
 
 ---

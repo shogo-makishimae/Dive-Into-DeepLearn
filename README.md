@@ -14,7 +14,7 @@
 
 <p align="center">
   <b>“数学是灵魂的底层逻辑，代码是现实的物理法则。”</b><br>
-  这里不仅是李沐老师《动手学深度学习》的学习笔记，更是一个深度学习算法的复现实验室。
+  这里不仅是李沐老师《动手学深度学习》的学习笔记。
 </p>
 
 ---
@@ -64,8 +64,3 @@
 
 ---
 
-## 🚀 快速启动
-
-1. **克隆实验室**:
-   ```bash
-   git clone [https://github.com/yourusername/Dive-Into-DeepLearn.git](https://github.com/yourusername/Dive-Into-DeepLearn.git)
